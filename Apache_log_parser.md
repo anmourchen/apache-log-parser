@@ -1,6 +1,6 @@
-#Apache log parsing#
+# Apache log parsing
 
-##Data set
+## Data set
 
 Dataset is located in `/data/spark/project/NASA_access_log_Aug95.gz` directory in HDFS
 
